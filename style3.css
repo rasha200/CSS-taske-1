@@ -1,0 +1,16 @@
+.title{
+    height: 80px;
+    background-color: blue;
+    color: yellow;
+    display: flex;
+    justify-content:center ;
+}
+
+h3{
+    color:green;
+}
+
+.golgol{
+    color:blue;
+    
+}
